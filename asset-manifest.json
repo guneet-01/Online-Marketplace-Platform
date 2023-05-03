@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Online-Marketplace-Platform/static/css/main.f6e9bef7.css",
+    "main.js": "/Online-Marketplace-Platform/static/js/main.f9bdff25.js",
+    "index.html": "/Online-Marketplace-Platform/index.html",
+    "main.f6e9bef7.css.map": "/Online-Marketplace-Platform/static/css/main.f6e9bef7.css.map",
+    "main.f9bdff25.js.map": "/Online-Marketplace-Platform/static/js/main.f9bdff25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6e9bef7.css",
+    "static/js/main.f9bdff25.js"
+  ]
+}
