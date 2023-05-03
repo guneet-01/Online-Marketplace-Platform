@@ -1,0 +1,29 @@
+.footer-main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.key-note h6 {
+  margin-top: -1px;
+}
+
+.site-name h2 {
+  border-bottom: 2px solid purple;
+  border-top: 2px solid purple;
+  color: purple;
+}
+
+.site-name h6 {
+  margin-top: -10px;
+}
+
+.site-name h2:hover {
+  transform: scale(1.1);
+  transition: 0.07s;
+}
+
+.socialMedia-links h5 a:hover {
+  border-bottom: 1px solid purple;
+  color: purple;
+}
